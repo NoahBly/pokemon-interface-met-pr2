@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class adMain {
 
     public static void main(String[] args) {
         Scanner speler_A = new Scanner(System.in);
