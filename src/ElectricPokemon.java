@@ -13,6 +13,7 @@ public class ElectricPokemon extends Pokemon{
         super(name,level,hp,food,sound, TYPE);
     }
 
+
     List<String> getAttacks() {
         return attacks;
     }

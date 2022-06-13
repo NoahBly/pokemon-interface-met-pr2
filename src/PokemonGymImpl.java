@@ -11,6 +11,8 @@ public class PokemonGymImpl implements PokemonGym{
          return village;
      }
 
+
+
     public void setVillage(String village) {
         this.village = village;
     }

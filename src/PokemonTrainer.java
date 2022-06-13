@@ -7,6 +7,8 @@ public class PokemonTrainer {
     private String name;
 
 
+
+
     FirePokemon charizard = new FirePokemon("charizard", 100, 100, "firefood", "roar");
     WaterPokemon blastoise = new WaterPokemon("blastoise", 100, 100, "waterfood", "roar");
     GrassPokemon venusaur = new GrassPokemon("venusaur", 100, 100, "grassfood", "roar");

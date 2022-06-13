@@ -7,6 +7,8 @@ public class Pokemon {
      private String food;
      private String sound;
 
+
+
     private String name;
 
     private String type;

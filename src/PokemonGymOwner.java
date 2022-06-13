@@ -6,3 +6,5 @@ public class PokemonGymOwner extends PokemonTrainer{
         super(name);
     }
 }
+
+

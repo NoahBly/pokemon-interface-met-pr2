@@ -9,6 +9,7 @@ public class GrassPokemon extends Pokemon{
 
     List<String> attacks = Arrays.asList("leafStorm","solarBeam","leechSeed","leaveBlade");
 
+
     public GrassPokemon(String name, int level, int hp, String food, String sound) {
         super(name,level,hp,food,sound, TYPE);
     }

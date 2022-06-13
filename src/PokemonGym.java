@@ -6,6 +6,8 @@ public interface PokemonGym {
     public void printPokemon(List<Pokemon> pokemons);
 
 
+
+
     public Pokemon selectPokemon(String pokemon, PokemonTrainer trainer);
     public void fightRound(PokemonTrainer trainer, PokemonGymOwner owner, Pokemon pokemon, Pokemon gymPokemon);
 
